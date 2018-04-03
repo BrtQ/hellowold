@@ -1,2 +1,2 @@
-# hellowold
-First repository
+I would like to become a programmer
+
